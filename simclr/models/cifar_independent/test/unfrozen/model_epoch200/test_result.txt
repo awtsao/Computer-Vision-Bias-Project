@@ -1,0 +1,4 @@
+Test on color images accuracy conditional: 85.41
+Test on color images accuracy sum out: 88.62
+Test on gray images accuracy conditional: 82.31
+Test on gray images accuracy sum out: 87.44

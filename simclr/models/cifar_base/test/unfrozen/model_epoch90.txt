@@ -1,0 +1,2 @@
+Test on color images accuracy: 85.69
+Test on gray images accuracy: 86.17

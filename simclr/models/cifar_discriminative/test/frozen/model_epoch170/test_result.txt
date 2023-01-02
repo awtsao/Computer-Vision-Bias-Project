@@ -1,0 +1,6 @@
+Test on color images accuracy sum prob without prior shift: 78.51
+Test on color images accuracy sum prob with prior shift: 81.19
+Test on color images accuracy max prob with prior shift: 81.17999999999999
+Test on gray images accuracy sum prob without prior shift: 82.48
+Test on gray images accuracy sum prob with prior shift: 82.27
+Test on gray images accuracy max prob with prior shift: 81.83
